@@ -1,11 +1,6 @@
 
 Minesweeper game written in Python using Tkinter GUI library.
 
-Contents:
-- */minesweeper.py* - The actual python program
-- */images/* - GIF Images ready for usage with Tkinter
-- */images/original* - Original PNG images made with GraphicsGale
-
 To Do:
 - Have specific number of mines, rather than random
 - Highscore table
@@ -16,3 +11,8 @@ To Do:
   - Amira Atef Abdo Elezaby.     
   - Rawia Mohamed Sarhan.        
   - Rawan Mohamed Abdallah.      
+
+
+<p align="center">
+  <img src="Minesweeper-Img1.jpeg" alt="" width=""/>
+</p>
